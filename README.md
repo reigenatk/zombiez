@@ -6,12 +6,13 @@ I play a lot of games. After learning about game engines I decided to have a go 
 After all, games have quite a bit of coding involved so I might learn something along the way.
 
 For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity as it has a massive support forum and some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
-For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops
+For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops.
 It was surprisingly challenging, and through the process I learned a lot. 
 
-
-- create an FPS controller in Unity
-- use Unity Animation/Animator
+Things like:
+- the Start and Update methods and how to use them
+- making an FPS controller
+- how to make animations using keyframes
 - Unity Terrain/NavMeshAgent
 - Implementing a Day/Night cycle
 - use ProGrids/ProBuilder to make houses
