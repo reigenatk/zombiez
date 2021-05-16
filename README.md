@@ -5,8 +5,7 @@
 I play a lot of games. After learning about game engines I decided to have a go at it myself.
 After all, games have quite a bit of coding involved so I might learn something along the way.
 
-For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity
-Some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
+For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity as it has a massive support forum and some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
 For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops
 It was surprisingly challenging, and through the process I learned a lot. 
 
