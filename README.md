@@ -2,8 +2,7 @@
 
 ### Description
 
-I play a lot of games. Perhaps too many. So why not learn how they're made?
-Now obviously my first game probably won't be even close to as good, but you have to start somewhere! After learning about game engines I decided to have a go at it myself
+I play a lot of games. After learning about game engines I decided to have a go at it myself.
 After all, games have quite a bit of coding involved so I might learn something along the way.
 
 For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity
@@ -27,5 +26,5 @@ Also I took a udemy course [here](https://www.udemy.com/course/unitycourse2/), I
 
 
 I have only added the script files so you can see some of the code that I wrote. This was the bulk of the work for my project. The game itself was much too big to commit to GitHub
-but you can play it here: []()
+but you can play it [here](https://reigenatk.itch.io/zombiez)
 
