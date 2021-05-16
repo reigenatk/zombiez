@@ -2,23 +2,25 @@
 
 ### Description
 
-I play a lot of games. Perhaps too many. Some of my favorite games ever (Hollow Knight, RimWorld, - how does one make such a masterpiece? After learning about game engines I decided to have a go at it myself
+I play a lot of games. Perhaps too many. So why not learn how they're made?
+Now obviously my first game probably won't be even close to as good, but you have to start somewhere! After learning about game engines I decided to have a go at it myself
 After all, games have quite a bit of coding involved so I might learn something along the way.
 
-For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). 
-So I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops
+For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity
+Some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
+For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops
 It was surprisingly challenging, and through the process I learned a lot. 
-<details>
-  <summary>Stuff I learned</summary>
-  * create an FPS controller in Unity
-  * use Unity Animation/Animator
-  * Unity Terrain/NavMeshAgent
-  * Implementing a Day/Night cycle
-  * use ProGrids/ProBuilder to make houses
-  * the difference between prefabs and instances
-  * C# scripting / classes
-  * and most importantly... debugging by reading Unity Documentation!
-</details>
+
+
+- create an FPS controller in Unity
+- use Unity Animation/Animator
+- Unity Terrain/NavMeshAgent
+- Implementing a Day/Night cycle
+- use ProGrids/ProBuilder to make houses
+- the difference between prefabs and instances
+- C# scripting / classes
+- and most importantly... debugging by reading Unity Documentation!
+
 
 Big shoutout to [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA), I must've watched at least 10 of his videos for my project. 
 Also I took a udemy course [here](https://www.udemy.com/course/unitycourse2/), I can recommend it although I skipped some portions, the parts that I did do were very good.
