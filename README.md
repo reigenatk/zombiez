@@ -11,20 +11,20 @@ It was surprisingly challenging, and through the process I learned a lot.
 
 **Download the game [here!](https://reigenatk21.itch.io/zombiez)**
 
-<br>
+
 <img alt="Daytime" src="https://user-images.githubusercontent.com/69275171/119083142-06e07000-b9c5-11eb-80e1-8687dc45f46b.png"/>
-<br>
-Gather guns and ammo during the day...
-<br>
+
+Gather guns and ammo during the day...  
+
 <img alt="Night" src="https://user-images.githubusercontent.com/69275171/119083632-ec5ac680-b9c5-11eb-9bdf-f2e77e627192.png"/>
-<br>
-  And survive at night... Don't run out of power!
-<br>
+
+And survive at night... Don't run out of power!  
+
 <img alt="Night" src="https://user-images.githubusercontent.com/69275171/119083802-48bde600-b9c6-11eb-956e-3267039454cc.png"/>
 
-Here's [a video](https://youtu.be/hNiEe156eHM) of me playing
+Here's [a video](https://youtu.be/hNiEe156eHM) of me playing  
 
-Through this project I learned how to use things like:
+Through this project I learned how to use things like:  
 - the Start and Update methods and how to use them
 - making an FPS controller
 - how to make animations using keyframes
