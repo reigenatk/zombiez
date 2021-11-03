@@ -1,4 +1,16 @@
 # ZOMBIE FOREST 
+
+### Description
+
+I play a lot of games. Some of them so much that I started to wonder: why not learn how to make them? After learning about game engines I decided to have a go at it myself.
+After all, games have quite a bit of coding involved so I might learn something along the way.
+
+For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity as it has a massive support forum and some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
+For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops.
+It was surprisingly challenging, and through the process I learned a lot. 
+
+**Download the game [here!](https://reigenatk21.itch.io/zombiez)**
+
 <br>
 <img alt="Daytime" src="https://user-images.githubusercontent.com/69275171/119083142-06e07000-b9c5-11eb-80e1-8687dc45f46b.png"/>
 <br>
@@ -12,16 +24,7 @@ Gather guns and ammo during the day...
 
 Here's [a video](https://youtu.be/hNiEe156eHM) of me playing
 
-### Description
-
-I play a lot of games. Some of them so much that I started to wonder: why not learn how to make them? After learning about game engines I decided to have a go at it myself.
-After all, games have quite a bit of coding involved so I might learn something along the way.
-
-For 3D engines, the most commonly used are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). I decided to choose Unity as it has a massive support forum and some of my favorite games ever (Hollow Knight, RimWorld, Subnautica) are made using unity! 
-For my project I decided to try my hand at making a classical zombie survival game, kinda like Call of Duty Black Ops.
-It was surprisingly challenging, and through the process I learned a lot. 
-
-Things like:
+Through this project I learned how to use things like:
 - the Start and Update methods and how to use them
 - making an FPS controller
 - how to make animations using keyframes
